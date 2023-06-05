@@ -1,0 +1,9 @@
+html{
+    box-sizing: border-box;
+}
+.fk{
+    position: absolute;
+    background-color: pink;
+    width: 50px;
+
+}
